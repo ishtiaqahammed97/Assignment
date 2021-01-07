@@ -1,0 +1,113 @@
+body{
+    margin: 10%;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 200%;
+    
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+h4{
+    font-weight: 300;
+}
+h5{
+    text-align: center;
+    color: #696871 ;
+}
+
+.half-width img{
+    width: 100%;
+
+}
+
+
+section{
+    height: 400px;
+    padding-bottom: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+    
+}
+
+.third-part img{
+   
+    padding-left: left ;
+    Width: 343.54px;
+    Height: 213.23px;
+    Top: 1469px;
+    Left: 148px; 
+}
+
+.experiences{
+            
+    float: left;
+    width: 30%;
+}
+
+h2{
+    text-align: center;
+}
+
+.third-part{
+    margin-left: 20px;
+    background-color: whitesmoke;
+}
+
+.work-inquiry{
+    background-image: url(shapes/Group_33094_1.png);
+    background-position: center;
+    background-size:contain ;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 906px;
+    height: 225px;
+    left: 267px;
+    top: 1900px;
+}
+
+h3{ padding: 64px; 
+    size: 64px;
+    line-height: 192px ;
+    font-weight: 700;
+    display: inline ;
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+    
+}
+
+.text-size{
+    size: 64px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.address-bar{
+     size: 36px;
+     color: #363958, 100%;
+     text-align: center;
+     font-weight: 700;
+}
+
