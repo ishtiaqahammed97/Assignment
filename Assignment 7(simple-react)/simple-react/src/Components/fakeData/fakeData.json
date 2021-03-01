@@ -1,0 +1,377 @@
+[
+    {
+      "id": 1,
+      "name": "Mashrafe Mortaza",
+      "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mashrafe-Mortaza-CWC19.ashx",
+      "team": "Dhaka Gladiators",
+      "salary":2000000,
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "username": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Tamim Iqbal",
+      "image":"https://ss.thgim.com/cricket/international/article29806242.ece/alternates/FREE_380/TAMIMGETTY",
+      "team": "Dhaka Gladiators",
+      "salary":2000000,
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "username": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Sakib Al Hasan ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CEUY_UQpsDx8EiHfrx08y_pEQKD5Yc0PKw&usqp=CAU",
+      "team": "Dhaka Gladiators",
+      "salary":3000000,
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "username": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Mushfiqur Rahman",
+      "team": "Dhaka Gladiators",
+      "salary":2000000,
+      "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "username": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Anamul Haque Bijoy",
+      "team": "Dhaka Gladiators",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UYpexeIe7rF0u4Skv9gO7RpSVQCgmXdgvQ&usqp=CAU",
+      "salary":1500000,
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "username": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Thisara Perera",
+      "team": "Dhaka Gladiators",
+      "salary":2000000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsks399fz9gSjqps2AWl_uY7k3_fZVsabPw&usqp=CAU",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": "-71.4197",
+          "lng": "71.7478"
+        }
+      },
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org",
+      "company": {
+        "username": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Shahid Afridi",
+      "team": "dahaka Gladiators",
+      "salary":2500000,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS02J9A5yJSWEpN66CK-Q6Dktqz7X3h5GRkqg&usqp=CAU",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "company": {
+        "username": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Wahab Riaz",
+      "team": "Dhaka Gladiators",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0BJlHywB_5P4qLc8EpmnXLfMfjdxz4ruWew&usqp=CAU",
+      "salary":1500000,
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "company": {
+        "username": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Sunil Narine",
+      "team": "Dhaka Gladiators",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDiFD86bPtlC0nAham3ww-H6wICYh0aWoUMA&usqp=CAU",
+      "salary":3000000,
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "company": {
+        "username": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Rovman Powell",
+      "team": "Dhaka Gladiators",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLFivCV-caRwNnrD3lQUdq0FcEvHYHxpunig&usqp=CAU",
+      "salary":1500000,
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "company": {
+        "username": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Kieron Pollard",
+      "team": "Dhaka Gladiators",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-c9l8X0AjQFqZW9YpGzhLMHlv6G4dkMqEHA&usqp=CAU",
+      "salary":2500000,
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "username": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Hazratullah Zazai",
+      "team": "Dhaka Gladiators",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcthAX_Ikd8vcFh_vwlL4qBiEIAzpWADd0g&usqp=CAU",
+      "salary":1000000,
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "username": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Rubel Hossan",
+      "team": "Dhaka Gladiators",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX7oN2Oy7E8UgyNP3V9DMmDW80lwcNLykdRg&usqp=CAU",
+      "salary":1500000,
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "username": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id":14,
+      "name": "Andre Russell",
+      "team": "Dhaka Gladiators",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3wZzvID_i9kx4t-Q0x5jDOoUfJNaPMV6IiA&usqp=CAU",
+      "salary":3500000,
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "username": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Taskin Ahmed",
+      "team": "Dhaka Gladiators",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6_BTQLwUhXcHnS9xHQ6cf0uxDaCem7kjd4A&usqp=CAU",
+      "salary":2500000,
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "username": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    }
+  ]
